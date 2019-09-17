@@ -17,4 +17,6 @@
 	echo ' ';
 	echo '<a href="block1\lessons2\multidimensional arrays.php">многомерные массивы</a>';
 	echo ' ';
+	echo '<a href="block1\lessons3\lessons3.php">lessons3</a>';
+	echo ' ';
 ?>
