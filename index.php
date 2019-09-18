@@ -1,6 +1,6 @@
 ﻿
 <?php               
-	echo 'Hello world!';
+	echo 'Hello world!'.'<br>';
 	echo '<a href="block1\lessons1\work with variables.php">работа с переменными</a>';
 	echo ' ';
 	echo '<a href="block1\lessons1\work with strings.php">работа со строками</a>';
@@ -16,7 +16,9 @@
 	echo '<a href="block1\lessons2\associative arrays.php">ассоциативные массивы</a>';
 	echo ' ';
 	echo '<a href="block1\lessons2\multidimensional arrays.php">многомерные массивы</a>';
-	echo ' ';
+	echo '<br>';
 	echo '<a href="block1\lessons3\lessons3.php">lessons3</a>';
-	echo ' ';
+	echo '<br>';
+	echo '<a href="block1\lessons4\lessons4.php">lessons4</a>';
+	echo '<br>';
 ?>
