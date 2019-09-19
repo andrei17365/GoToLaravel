@@ -21,4 +21,8 @@
 	echo '<br>';
 	echo '<a href="block1\lessons4\lessons4.php">lessons4</a>';
 	echo '<br>';
+	echo '<a href="block1\lessons5\lessons5.php">lessons5</a>';
+	echo '<br>';
+	echo '<a href="block1\lessons7\lessons7.php">lessons7</a>';
+	echo '<br>';
 ?>
